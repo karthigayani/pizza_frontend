@@ -15,7 +15,7 @@ function ControlledCarousel() {
         <img
         style={{width:"100%", height:"600px", objectFit:"cover"}}
           className="d-block w-100"
-          src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e3917bd-0936-4ffd-9898-76f7adee9880/de3f580-5e6d7361-82bc-40db-b5df-7c8c753c1118.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlMzkxN2JkLTA5MzYtNGZmZC05ODk4LTc2ZjdhZGVlOTg4MFwvZGUzZjU4MC01ZTZkNzM2MS04MmJjLTQwZGItYjVkZi03YzhjNzUzYzExMTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hRbSV3oJ8khMcwFMjwwdVjPA1b8CCHS-4WqYz1bqk5Y"
+          src="https://i.etsystatic.com/32434499/r/il/76ac45/3860443665/il_fullxfull.3860443665_gtbm.jpg"
           alt="First slide"
         />
 
