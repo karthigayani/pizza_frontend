@@ -1,5 +1,5 @@
 
-export const host = "https://pizza-delivery-backend-nine.vercel.app";
+export const host = "https://pizza-backend-eta.vercel.app";
 
 export const getPizzaData = `${host}/api/pizzas/getAllPizzas`;
 export const addNewPizza = `${host}/api/pizzas/addpizza`;
